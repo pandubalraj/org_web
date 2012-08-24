@@ -8,7 +8,7 @@ gem 'rails', '3.1.3'
 group :development do 
 	gem 'mysql2'
 end
-group :development do 
+group :production do
 gem 'pg' 
 end
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
