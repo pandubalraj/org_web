@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  event_title: MyString
+  event_date: 2012-08-23
+  event_venue: MyString
+  chief_guest: MyString
+
+two:
+  event_title: MyString
+  event_date: 2012-08-23
+  event_venue: MyString
+  chief_guest: MyString
